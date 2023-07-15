@@ -1,2 +1,2 @@
-Application of Style Transfer to Generate Body Tracking Art in conjuction with Google's [Blazepose](https://ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html) and Pose Estimation Algorithms.
+Application of Style Transfer to generate Body Tracking Art in conjuction with Google's [Blazepose](https://ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html) and Pose Estimation Algorithms.
 Please see the attached [project report](https://drive.google.com/file/d/1ZrgeEEv8yku9qrl9KZrNX43trK3w6BYw/view?usp=sharing) and [presentation](https://docs.google.com/presentation/d/1s-9NVitP0o-srFs201UWLNDkG1wpoRNYMrwyoTxKhVc/edit?usp=sharing) for more info.
